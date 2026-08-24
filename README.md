@@ -1,4 +1,4 @@
-# C-friendlist
+# C-Friendlist
 
 C 언어 학습 과정에서 제작 중인 **콘솔 기반 친구 목록 관리 프로그램**입니다.
 
